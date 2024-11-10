@@ -65,4 +65,7 @@
 # ![chrome_cPNTkdSIAG](https://github.com/user-attachments/assets/f524fd25-a00b-45e9-9b31-9cbb98f23929)
 # ![chrome_rSOM7S01dC](https://github.com/user-attachments/assets/6433e619-458c-4a60-a147-6fe6a08cda07)
 
+Ссылка на Youtrack https://gamanstela.youtrack.cloud/issues?q=tag:%20%7BSprint2Practice%7D
+Ссылка на гугл таблицу https://docs.google.com/spreadsheets/d/1Ezg1M_SYMQjvvMUMBANzAyFRmAQAIZsmEG58782tjlg/edit?usp=sharing
+
 
