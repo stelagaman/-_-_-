@@ -3,9 +3,9 @@
 Постановка задачи
 Предстоит протестировать каршеринг: составить тестовую документацию, выполнить проверки, завести баг-репорты.
 Вот макеты 
-# https://www.figma.com/design/42mNwme0cBfZwNZUIcN1mh/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D1%8B?node-id=2-18586&node-type=canvas&t=uyTgjNwzTTAuzdRy-0 
+ https://www.figma.com/design/42mNwme0cBfZwNZUIcN1mh/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D1%8B?node-id=2-18586&node-type=canvas&t=uyTgjNwzTTAuzdRy-0 
 и требования
-# https://praktikum.notion.site/74dd6e68fda34387ac4d43137a601c6e
+ https://praktikum.notion.site/74dd6e68fda34387ac4d43137a601c6e
 к каршерингу (можно выбрать один любой тариф).
 # 1. Подготовь чек-лист на вёрстку полей
 Выбери один тариф: например, «Роскошный».
