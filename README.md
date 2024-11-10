@@ -61,5 +61,8 @@
 Пропиши предусловия.
 Обрати внимание: 
 На кнопке «Забронировать» указаны расстояние и время в пути. Например: «Маршрут составит 3 км и займёт 4 мин.» Тебе не нужно проверять, правильно ли рассчитаны эти данные.
-![chrome_chpNV5BIyV](https://github.com/user-attachments/assets/cf9044f0-038e-47f4-b2e1-672144ba97c3)
+# ![chrome_chpNV5BIyV](https://github.com/user-attachments/assets/cf9044f0-038e-47f4-b2e1-672144ba97c3)
+# ![chrome_cPNTkdSIAG](https://github.com/user-attachments/assets/f524fd25-a00b-45e9-9b31-9cbb98f23929)
+# ![chrome_rSOM7S01dC](https://github.com/user-attachments/assets/6433e619-458c-4a60-a147-6fe6a08cda07)
+
 
